@@ -1,13 +1,11 @@
 import { Controller, Get, UsePipes } from "@nestjs/common";
+import { AppService } from "app.service";
 
 @Controller()
 export class AppController {
-  @Get("alive")
-  async login() {
-    return {
-      code: 200,
-      msg: "lol",
-      data: null,
-    };
+  constructor(private readonly appService: AppService) {}
+  @Get("getAuthor")
+  async getAuthor() {
+    return this.appService.getAuthor();
   }
 }

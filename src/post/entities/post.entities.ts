@@ -1,18 +1,24 @@
-import { Entity, PrimaryKey, Property } from "@mikro-orm/core";
-import { Field, ID, ObjectType } from "@nestjs/graphql";
+import {
+  Entity,
+  PrimaryKey,
+  Property,
+  ManyToOne,
+  BigIntType,
+} from "@mikro-orm/core";
+import { Author } from "../../author/entities/author.entities";
 
-@ObjectType()
+// @Entity({ tableName: 'my.post' })
 @Entity()
 export class Post {
-  @Field(() => ID)
-  @PrimaryKey()
+  @PrimaryKey({ type: BigIntType, comment: "PK" })
   id!: string;
 
-  @Field()
-  @Property()
+  @Property({ nullable: true })
   title!: string;
 
-  @Field()
-  @Property()
+  @Property({ nullable: true })
   body!: string;
+
+  @ManyToOne(() => Author)
+  author!: Author;
 }

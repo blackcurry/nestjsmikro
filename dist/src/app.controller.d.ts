@@ -1,7 +1,6 @@
+import { AppService } from "app.service";
 export declare class AppController {
-    login(): Promise<{
-        code: number;
-        msg: string;
-        data: any;
-    }>;
+    private readonly appService;
+    constructor(appService: AppService);
+    getAuthor(): Promise<any>;
 }

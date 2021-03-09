@@ -9,35 +9,29 @@ var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.Author = void 0;
+exports.Post = void 0;
 const core_1 = require("@mikro-orm/core");
-const post_entities_1 = require("../../post/entities/post.entities");
-let Author = class Author {
-    constructor() {
-        this.post = new core_1.Collection(this);
-    }
+const author_entities_1 = require("../../author/entities/author.entities");
+let Post = class Post {
 };
 __decorate([
     core_1.PrimaryKey({ type: core_1.BigIntType, comment: "PK" }),
     __metadata("design:type", String)
-], Author.prototype, "id", void 0);
+], Post.prototype, "id", void 0);
 __decorate([
     core_1.Property({ nullable: true }),
     __metadata("design:type", String)
-], Author.prototype, "name", void 0);
+], Post.prototype, "title", void 0);
 __decorate([
-    core_1.OneToMany(() => post_entities_1.Post, (post) => post.author, {
-        nullable: true,
-        orphanRemoval: true,
-    }),
-    __metadata("design:type", Object)
-], Author.prototype, "post", void 0);
+    core_1.Property({ nullable: true }),
+    __metadata("design:type", String)
+], Post.prototype, "body", void 0);
 __decorate([
-    core_1.Property({ persist: false, nullable: true }),
-    __metadata("design:type", Number)
-], Author.prototype, "postTotal", void 0);
-Author = __decorate([
+    core_1.ManyToOne(() => author_entities_1.Author),
+    __metadata("design:type", author_entities_1.Author)
+], Post.prototype, "author", void 0);
+Post = __decorate([
     core_1.Entity()
-], Author);
-exports.Author = Author;
-//# sourceMappingURL=author.entities.js.map
+], Post);
+exports.Post = Post;
+//# sourceMappingURL=post.entities.js.map

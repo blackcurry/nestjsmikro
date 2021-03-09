@@ -1,6 +1,8 @@
+import { Collection } from "@mikro-orm/core";
+import { Post } from "../../post/entities/post.entities";
 export declare class Author {
-    id: number;
+    id: string;
     name: string;
-    name2: string;
-    community: string;
+    post?: Collection<Post, unknown>;
+    postTotal?: number;
 }

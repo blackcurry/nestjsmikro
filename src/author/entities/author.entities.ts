@@ -1,23 +1,28 @@
-import { Entity, PrimaryKey, Property } from "@mikro-orm/core";
-import { Post } from "post/entities/post.entities";
-import { Field, ID, ObjectType } from "@nestjs/graphql";
+import {
+  BigIntType,
+  Collection,
+  Entity,
+  OneToMany,
+  PrimaryKey,
+  Property,
+} from "@mikro-orm/core";
+import { Post } from "../../post/entities/post.entities";
 
-@ObjectType()
+// @Entity({ tableName: 'my.author' })
 @Entity()
 export class Author {
-  @Field(() => ID)
-  @PrimaryKey()
+  @PrimaryKey({ type: BigIntType, comment: "PK" })
   id!: string;
 
-  @Field()
-  @Property()
+  @Property({ nullable: true })
   name!: string;
 
-  @Field()
-  @Property()
-  post: Post;
+  @OneToMany(() => Post, (post) => post.author, {
+    nullable: true,
+    orphanRemoval: true,
+  })
+  post? = new Collection<Post>(this);
 
-  // graphql only
-  @Field()
-  todayPostCnt?: number;
+  @Property({ persist: false, nullable: true })
+  postTotal?: number;
 }

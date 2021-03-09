@@ -1,27 +1,23 @@
 {
-  "name": "community-api",
+  "name": "author",
   "private": true,
   "version": "1.0.0",
-  "description": "wehago community api",
+  "description": "author",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
-    "start": "NODE_ENV=development nest start",
-    "start:dev": "NODE_ENV=development nest start --watch",
+    "start": "nest start",
+    "start:dev": "nest start --watch",
     "start:debug": "nest start --debug --watch",
-    "start:develop": "NODE_ENV=development node dist/main",
-    "start:production": "NODE_ENV=production node dist/main",
+    "start:develop": "node dist/src/main",
+    "start:production": "node dist/src/main",
     "lint": "eslint \"{src,apps,libs,test}/**/*.ts\" --fix",
     "test": "jest",
+    "test2": "jest --config ./test/jest-e2e.json",
     "test:watch": "jest --watch",
     "test:cov": "jest --coverage",
-    "test:debug": "node --inspect-brk -r tsconfig-paths/register -r ts-node/register node_modules/.bin/jest --runInBand",
-    "test:e2e": "NODE_ENV=development jest --config ./test/jest-e2e.json",
-    "deploy:dev": "pm2 start ecosystem.config.js --env development",
-    "deploy:prod": "pm2 start ecosystem.config.js --env production",
-    "deploy:close": "pm2 delete all",
-    "mig:dev:create": "dotenv -e ./config/.development.env -- yarn mikro-orm migration:create"
+    "test:debug": "node --inspect-brk -r tsconfig-paths/register -r ts-node/register node_modules/.bin/jest --runInBand"
   },
   "dependencies": {
     "@mikro-orm/core": "^4.4.3",
@@ -82,7 +78,7 @@
       "<rootDir>"
     ],
     "rootDir": "./src",
-    "testRegex": ".*\\.spec\\.ts$",
+    "testRegex": ".spec.ts$",
     "transform": {
       "^.+\\.(t|j)s$": "ts-jest"
     },
@@ -90,7 +86,8 @@
       "**/*.(t|j)s"
     ],
     "coverageDirectory": "../coverage",
-    "testEnvironment": "node"
+    "testEnvironment": "node",
+    "transformIgnorePatterns": ["^.+\\.js$"]
   },
   "mikro-orm": {
     "useTsNode": true

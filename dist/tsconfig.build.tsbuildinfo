@@ -162,8 +162,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/globals.d.ts": {
-        "version": "215d8d9a2c480fd460127edc048d68d9931d3b27f95132253a6e71975f060bb1",
-        "signature": "215d8d9a2c480fd460127edc048d68d9931d3b27f95132253a6e71975f060bb1",
+        "version": "25b4a0c4fab47c373ee49df4c239826ee3430019fc0c1b5e59edc3e398b7468d",
+        "signature": "25b4a0c4fab47c373ee49df4c239826ee3430019fc0c1b5e59edc3e398b7468d",
         "affectsGlobalScope": true
       },
       "../node_modules/@types/node/async_hooks.d.ts": {
@@ -312,8 +312,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/timers.d.ts": {
-        "version": "2f9c94d2805d249de1ed836937ce1c62dd051bae445661e62ecf238b69893b29",
-        "signature": "2f9c94d2805d249de1ed836937ce1c62dd051bae445661e62ecf238b69893b29",
+        "version": "2d713cbcbd5bcc38d91546eaeea7bb1c8686dc4a2995a28556d957b1b9de11d9",
+        "signature": "2d713cbcbd5bcc38d91546eaeea7bb1c8686dc4a2995a28556d957b1b9de11d9",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/tls.d.ts": {
@@ -392,8 +392,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/index.d.ts": {
-        "version": "50110c7d2a07edf10beabf49b33fd89e79a19d73db0369cc5a64c9d03725cfc6",
-        "signature": "50110c7d2a07edf10beabf49b33fd89e79a19d73db0369cc5a64c9d03725cfc6",
+        "version": "9c4c395e927045b324877acdc4bfb95f128f36bc9f073266a2f0342495075a4f",
+        "signature": "9c4c395e927045b324877acdc4bfb95f128f36bc9f073266a2f0342495075a4f",
         "affectsGlobalScope": false
       },
       "../node_modules/@mikro-orm/core/enums.d.ts": {
@@ -2217,28 +2217,228 @@
         "affectsGlobalScope": false
       },
       "../mikro-orm.config.ts": {
-        "version": "aed00872be7d026f91136ac2a5211bad53551b706f4a8b64629e09c363d19e3b",
-        "signature": "9b964217f892b148f153cf557ac308d5a7fc116b9080cc95ca840d13571db647",
+        "version": "e50862037dfdcf5dfffc3862fb1f0ff63e064cdeb856e2e53ae6c028e752ac2f",
+        "signature": "2733eca6a5d71074c518fac610e6a2a0680a863a89b0c1422aaf7a53ef02d161",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/tarn/dist/promiseinspection.d.ts": {
+        "version": "7e237225efc4fbb50af46753e1db2cf7a72c832e94925621acff5062d83b6bcf",
+        "signature": "7e237225efc4fbb50af46753e1db2cf7a72c832e94925621acff5062d83b6bcf",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/tarn/dist/utils.d.ts": {
+        "version": "ece7b8ed429451273974cc32aca62c0240e76b6fe17302093fcb690eefed0442",
+        "signature": "ece7b8ed429451273974cc32aca62c0240e76b6fe17302093fcb690eefed0442",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/tarn/dist/pendingoperation.d.ts": {
+        "version": "52ffb3197c94d81f36466cab01bedbb99ab1a477936f864d75919e29e7df072c",
+        "signature": "52ffb3197c94d81f36466cab01bedbb99ab1a477936f864d75919e29e7df072c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/tarn/dist/resource.d.ts": {
+        "version": "599c79f2dd545782bc30a61e4034144ae62197242cadda797124f25431a1085b",
+        "signature": "599c79f2dd545782bc30a61e4034144ae62197242cadda797124f25431a1085b",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/tarn/dist/pool.d.ts": {
+        "version": "21c893348215872baf132886314d0a183fa4b050bc0f3224d358c7d9ebb47066",
+        "signature": "21c893348215872baf132886314d0a183fa4b050bc0f3224d358c7d9ebb47066",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/tarn/dist/timeouterror.d.ts": {
+        "version": "d88553098dad96f301c01f91d1aadfd9fc8edfcc34d9fa5f7c08687b02127b58",
+        "signature": "d88553098dad96f301c01f91d1aadfd9fc8edfcc34d9fa5f7c08687b02127b58",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/tarn/dist/tarn.d.ts": {
+        "version": "157e647b08b390b250a8947518c57452b2e26262efe2af16901ad1db2cefccfb",
+        "signature": "157e647b08b390b250a8947518c57452b2e26262efe2af16901ad1db2cefccfb",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/knex/types/result.d.ts": {
+        "version": "aa977c0c9bc4fa540acb6af1948fa65224e1b2b69a9e2ee73bd1917b3e9d89fb",
+        "signature": "aa977c0c9bc4fa540acb6af1948fa65224e1b2b69a9e2ee73bd1917b3e9d89fb",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/knex/types/tables.d.ts": {
+        "version": "ec982ebee52d26bdc7a7520612216c9c55e7a44e6fe0f654fb26e6ee41bc16c4",
+        "signature": "ec982ebee52d26bdc7a7520612216c9c55e7a44e6fe0f654fb26e6ee41bc16c4",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/knex/types/index.d.ts": {
+        "version": "da204999f654fc0fde6ee2bfb1db4d9b209557bd1f27979b4aea353daf03068f",
+        "signature": "da204999f654fc0fde6ee2bfb1db4d9b209557bd1f27979b4aea353daf03068f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@mikro-orm/knex/query/enums.d.ts": {
+        "version": "eb8b953a086eb190829bfca1622b1afe51e9ab3b243414f4ade9747494a5aa7a",
+        "signature": "eb8b953a086eb190829bfca1622b1afe51e9ab3b243414f4ade9747494a5aa7a",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@mikro-orm/knex/typings.d.ts": {
+        "version": "bb0cda571b9ff7a098f805e5606192ed07004bd70a2caaf29da21b2c82137f4d",
+        "signature": "bb0cda571b9ff7a098f805e5606192ed07004bd70a2caaf29da21b2c82137f4d",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@mikro-orm/knex/schema/schemahelper.d.ts": {
+        "version": "d5eeee3a3d4b4db7ad574586adaa5396d075791b3009f91fc19eb7e44cc817c9",
+        "signature": "d5eeee3a3d4b4db7ad574586adaa5396d075791b3009f91fc19eb7e44cc817c9",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@mikro-orm/knex/schema/databasetable.d.ts": {
+        "version": "e25852f105fa151175af6b6dc6000303f7761f33e2aa760bc2a56b950a49acbc",
+        "signature": "e25852f105fa151175af6b6dc6000303f7761f33e2aa760bc2a56b950a49acbc",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@mikro-orm/knex/schema/databaseschema.d.ts": {
+        "version": "63dd3d3b8067ab609d2459d7d1d8c4c1b6e62163e6d82ba5cade2739d61075d5",
+        "signature": "63dd3d3b8067ab609d2459d7d1d8c4c1b6e62163e6d82ba5cade2739d61075d5",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@mikro-orm/knex/query/querybuilder.d.ts": {
+        "version": "f3f394fdf7a61186ca7e4d1d41a63ec971eec01bfcf37f6a554577851a3a91e9",
+        "signature": "f3f394fdf7a61186ca7e4d1d41a63ec971eec01bfcf37f6a554577851a3a91e9",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@mikro-orm/knex/abstractsqldriver.d.ts": {
+        "version": "e1fd6e0c692697b424f8340f4492e0034e79b455bd75f4d21e07fec40052822b",
+        "signature": "e1fd6e0c692697b424f8340f4492e0034e79b455bd75f4d21e07fec40052822b",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@mikro-orm/knex/query/querybuilderhelper.d.ts": {
+        "version": "aecae3ca45657aa251036fdf2f04747d9ef750689d83241f6bcc25da2bb5ef50",
+        "signature": "aecae3ca45657aa251036fdf2f04747d9ef750689d83241f6bcc25da2bb5ef50",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@mikro-orm/knex/query/criterianode.d.ts": {
+        "version": "50dad4171077b9419dfbf07f0525f45caf19a617ab17f91cb4d140e243db47fb",
+        "signature": "50dad4171077b9419dfbf07f0525f45caf19a617ab17f91cb4d140e243db47fb",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@mikro-orm/knex/query/arraycriterianode.d.ts": {
+        "version": "3b1bc12209c1762fabb1ffb6f1f8cba96ad364141d0ae3c6037519b219dd82fa",
+        "signature": "3b1bc12209c1762fabb1ffb6f1f8cba96ad364141d0ae3c6037519b219dd82fa",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@mikro-orm/knex/query/objectcriterianode.d.ts": {
+        "version": "563b491173e751c7b7b1bba6cafab602bf16053f660482a7c1f317dc314e089c",
+        "signature": "563b491173e751c7b7b1bba6cafab602bf16053f660482a7c1f317dc314e089c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@mikro-orm/knex/query/scalarcriterianode.d.ts": {
+        "version": "103776eca1d9a35d77492202c34176dfab7a9df55cf7c65f89e6c583fde89b21",
+        "signature": "103776eca1d9a35d77492202c34176dfab7a9df55cf7c65f89e6c583fde89b21",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@mikro-orm/knex/query/criterianodefactory.d.ts": {
+        "version": "fbaf96feca5ff2b9739d25874878d6f19bb0d82c89f0489994cd32dbe1e3adc4",
+        "signature": "fbaf96feca5ff2b9739d25874878d6f19bb0d82c89f0489994cd32dbe1e3adc4",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@mikro-orm/knex/query/index.d.ts": {
+        "version": "6d048e32e69fd6edfeadc5251bdeaba7dedbb66b384556eb7c8bc418ebcbf214",
+        "signature": "6d048e32e69fd6edfeadc5251bdeaba7dedbb66b384556eb7c8bc418ebcbf214",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@mikro-orm/knex/sqlentityrepository.d.ts": {
+        "version": "31f63055c51ae9b60c2f0e3576a2a663fdb6686bee6b39f8899fd07265cd98b8",
+        "signature": "31f63055c51ae9b60c2f0e3576a2a663fdb6686bee6b39f8899fd07265cd98b8",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@mikro-orm/knex/sqlentitymanager.d.ts": {
+        "version": "078c0e85ea573bcefcd0ca80d370451f6379468dfa9a2974901fcd5c2c101038",
+        "signature": "078c0e85ea573bcefcd0ca80d370451f6379468dfa9a2974901fcd5c2c101038",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@mikro-orm/knex/schema/schemagenerator.d.ts": {
+        "version": "e90af962ad80a89b289c76a6a117b51cf9111fc6a2ba8a7fbfbf03954e0c6ef9",
+        "signature": "e90af962ad80a89b289c76a6a117b51cf9111fc6a2ba8a7fbfbf03954e0c6ef9",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@mikro-orm/knex/schema/index.d.ts": {
+        "version": "32326fb565050cd2f8e5b53bb15f750a391d68bb43a9ec56958ab8b0668eb628",
+        "signature": "32326fb565050cd2f8e5b53bb15f750a391d68bb43a9ec56958ab8b0668eb628",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@mikro-orm/knex/abstractsqlplatform.d.ts": {
+        "version": "a4a2505828bbdce7ff03b0b3256d4a3f66c4a3e630556083c4b9cee1f7cea554",
+        "signature": "a4a2505828bbdce7ff03b0b3256d4a3f66c4a3e630556083c4b9cee1f7cea554",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@mikro-orm/knex/abstractsqlconnection.d.ts": {
+        "version": "bb1bc9e3f71f9fadd96edef7aeab8ef6dc95ca0d45a313587327172ae5aa62b2",
+        "signature": "bb1bc9e3f71f9fadd96edef7aeab8ef6dc95ca0d45a313587327172ae5aa62b2",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@mikro-orm/knex/monkeypatchable.d.ts": {
+        "version": "e9da404058a9762ef7dc015985ef1d8853d6a81e4ef5703a90228fe864b681c9",
+        "signature": "e9da404058a9762ef7dc015985ef1d8853d6a81e4ef5703a90228fe864b681c9",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@mikro-orm/knex/index.d.ts": {
+        "version": "22c649e97c4aa278c3d1bc07c6931b5bfd3618d0304e5f2127e0b5e61ec4bb43",
+        "signature": "22c649e97c4aa278c3d1bc07c6931b5bfd3618d0304e5f2127e0b5e61ec4bb43",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@mikro-orm/postgresql/postgresqlconnection.d.ts": {
+        "version": "dc00be5f1205fafa9ba0ddfd86176b9f7ba1751cb1ec8b9cfe889cd3bdf01547",
+        "signature": "dc00be5f1205fafa9ba0ddfd86176b9f7ba1751cb1ec8b9cfe889cd3bdf01547",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@mikro-orm/postgresql/postgresqldriver.d.ts": {
+        "version": "7915ffdbadff3459e83c628a9e5a7cb3682acf2f1fb4576e75e03d8d8b6a6b57",
+        "signature": "7915ffdbadff3459e83c628a9e5a7cb3682acf2f1fb4576e75e03d8d8b6a6b57",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@mikro-orm/postgresql/postgresqlschemahelper.d.ts": {
+        "version": "9c23f95dc332ee0a74669691bba18af75dbe9213a4b401a573d7862fbc419a8e",
+        "signature": "9c23f95dc332ee0a74669691bba18af75dbe9213a4b401a573d7862fbc419a8e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@mikro-orm/postgresql/postgresqlexceptionconverter.d.ts": {
+        "version": "6941b83160355ce4e592300d6d1b09b36da3b0da4477b2d61dd044ab024a0ab9",
+        "signature": "6941b83160355ce4e592300d6d1b09b36da3b0da4477b2d61dd044ab024a0ab9",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@mikro-orm/postgresql/postgresqlplatform.d.ts": {
+        "version": "6f1c3cc4fdf48a175b29941ba9610034d2b9d07e5825884830a4b954d25f9971",
+        "signature": "6f1c3cc4fdf48a175b29941ba9610034d2b9d07e5825884830a4b954d25f9971",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@mikro-orm/postgresql/index.d.ts": {
+        "version": "8bf33f65156a1678867a6db679308c49d5661255676a1a7d2c14e7628e494633",
+        "signature": "8bf33f65156a1678867a6db679308c49d5661255676a1a7d2c14e7628e494633",
+        "affectsGlobalScope": false
+      },
+      "../src/post/entities/post.entities.ts": {
+        "version": "76b57f923634a44ed927a78efa10a368f0c97bb6661fd947f87aa67797fa1799",
+        "signature": "511da9c4fd00776c042c6117cb559b6820241610de8616ddfef0e3cbc4c37944",
+        "affectsGlobalScope": false
+      },
+      "../src/author/entities/author.entities.ts": {
+        "version": "7b2266a9ae85b5c73d4e575403623f5289d7a975a551a244e4dce3c63ab338e5",
+        "signature": "663d36cd67c7f636f3bdb7f4d82e2bc90d8d8b194677ae23f486ba381e231337",
+        "affectsGlobalScope": false
+      },
+      "../src/app.service.ts": {
+        "version": "3b7c200ca21e708c050b587f7c420bd9b4dda55ee628ba643194f204c75c3e4d",
+        "signature": "75e042df316588d47e251cfef91196ed17fe114a617ebee662fe2a4ab618bf95",
         "affectsGlobalScope": false
       },
       "../src/app.controller.ts": {
-        "version": "d6bdc1b4456072268625a67550a82c9e744a7dacd67382c6d2bc2093acb7b286",
-        "signature": "d860a4e3ab467ce1ac6d95f071e9c56e3bef01acf459f18ff0505cf33f5b580b",
+        "version": "9d3d1382f599ed4ffe38385a36aa42b21bf94f3cb79612553353a24af83c2ab2",
+        "signature": "413b7529629608da340b71e294674a4e6672bdea8c111f759ed02e0195e3c7ef",
         "affectsGlobalScope": false
       },
       "../src/app.module.ts": {
-        "version": "359870bdff6bb796a0c305b62e2609e29cb47d94f84547df84c4cc3ee34c4537",
+        "version": "0c34d56fef88cb03e5f2b7a47cb3f0e3e84577aa7c410543fc3738d57e6c082e",
         "signature": "b82491e2990291580288c5602d4c017238977749d52b17391f0e45d9a29be644",
         "affectsGlobalScope": false
       },
       "../src/main.ts": {
-        "version": "acd6545658161bb2df8e0b618ebcd5e955f64a87eeebb9ef5ac55ae0510222e7",
+        "version": "c3722161939aaaf177e0db7ae9fdd92464631b780f99abdcd8da83a0260552db",
         "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
-        "affectsGlobalScope": false
-      },
-      "../src/author/entities/author.entities.ts": {
-        "version": "a3fa4ba380b83e5aea7f88db3b130698783595cab4accef36e6035b133acca8d",
-        "signature": "3db3c27e198149869ba71e776412c73173a49721f627ecdafabdc344322a657d",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/accepts/index.d.ts": {
@@ -2252,8 +2452,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@babel/types/lib/index.d.ts": {
-        "version": "7b5e26235ce4dcc952636ac7f5f881998ee0c82647e83afe028f652fd7748504",
-        "signature": "7b5e26235ce4dcc952636ac7f5f881998ee0c82647e83afe028f652fd7748504",
+        "version": "368d98ad7e5cb65c247aa95c97e86b3812b4d91a74bafa6b0d4420d1ce91557c",
+        "signature": "368d98ad7e5cb65c247aa95c97e86b3812b4d91a74bafa6b0d4420d1ce91557c",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/babel__generator/index.d.ts": {
@@ -2307,8 +2507,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/continuation-local-storage/index.d.ts": {
-        "version": "fec05bdb75bfc1586a6587734da493918f4415a1c3b824eb78ba7d07df88ff3f",
-        "signature": "fec05bdb75bfc1586a6587734da493918f4415a1c3b824eb78ba7d07df88ff3f",
+        "version": "23fed6a048f9e149afbde151d7a74df745d6aea8c9004d01e53f531002d66e98",
+        "signature": "23fed6a048f9e149afbde151d7a74df745d6aea8c9004d01e53f531002d66e98",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/cookiejar/index.d.ts": {
@@ -2327,8 +2527,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/qs/index.d.ts": {
-        "version": "c236451df6139a965bb9b8fba15a43a8bebf4400ca589998e2bdc5e1291fa0f9",
-        "signature": "c236451df6139a965bb9b8fba15a43a8bebf4400ca589998e2bdc5e1291fa0f9",
+        "version": "98437d5a640b67c41534f0de2dcb64c75433dcdff54ff8f8432e613663619a2e",
+        "signature": "98437d5a640b67c41534f0de2dcb64c75433dcdff54ff8f8432e613663619a2e",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/express-serve-static-core/index.d.ts": {
@@ -2356,6 +2556,11 @@
         "signature": "00574a8bdd163e2888014e23e7b1c42a24cecdf11c0ca2181e2de0541a3b4514",
         "affectsGlobalScope": false
       },
+      "../node_modules/@types/cors/index.d.ts": {
+        "version": "7ba5854095e85c14e153f087b1232e19ed2fee62a7fefd8bf57e0956edab4ae2",
+        "signature": "7ba5854095e85c14e153f087b1232e19ed2fee62a7fefd8bf57e0956edab4ae2",
+        "affectsGlobalScope": false
+      },
       "../node_modules/@types/crypto-js/index.d.ts": {
         "version": "9764460948ab86a538eddf0dd7c98d41095ee2bc0bb092ec87e65ff799c98b78",
         "signature": "9764460948ab86a538eddf0dd7c98d41095ee2bc0bb092ec87e65ff799c98b78",
@@ -2377,8 +2582,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/eslint/index.d.ts": {
-        "version": "edb3e2f61a2a6e29a5f9043f73adf65951d52b4c1f22e84050381f7ef0d77318",
-        "signature": "edb3e2f61a2a6e29a5f9043f73adf65951d52b4c1f22e84050381f7ef0d77318",
+        "version": "ffa048767a32a0f6354e611b15d8b53d882da1a9a35455c35c3f6811f2416d17",
+        "signature": "ffa048767a32a0f6354e611b15d8b53d882da1a9a35455c35c3f6811f2416d17",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/eslint-scope/index.d.ts": {
@@ -2907,8 +3112,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/koa/index.d.ts": {
-        "version": "7a8d7a2d241556d322c18e6e069d56a5bb4f49ad26d39cde762c2817f75fc3ce",
-        "signature": "7a8d7a2d241556d322c18e6e069d56a5bb4f49ad26d39cde762c2817f75fc3ce",
+        "version": "d6d4d8896885d268b2f15bbbf4cfffeb04208d37ebc74b2bdde2bb279a147ca4",
+        "signature": "d6d4d8896885d268b2f15bbbf4cfffeb04208d37ebc74b2bdde2bb279a147ca4",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/graphql-upload/index.d.ts": {
@@ -3052,8 +3257,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/mongodb/index.d.ts": {
-        "version": "cdcaff91efe06dc77ea5e8b3672fd6ae722c91ad4bf804ea4f5017714abf7084",
-        "signature": "cdcaff91efe06dc77ea5e8b3672fd6ae722c91ad4bf804ea4f5017714abf7084",
+        "version": "937f880fdab11788a782bd886368f22d47da50a7adfc3e9e97b3cf42c8cea087",
+        "signature": "937f880fdab11788a782bd886368f22d47da50a7adfc3e9e97b3cf42c8cea087",
         "affectsGlobalScope": false
       },
       "../node_modules/form-data/index.d.ts": {
@@ -3082,8 +3287,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/prettier/index.d.ts": {
-        "version": "d065397724b88df62e79aa428d0844e94d90c8754608dfee0685dcdbbe7b25d9",
-        "signature": "d065397724b88df62e79aa428d0844e94d90c8754608dfee0685dcdbbe7b25d9",
+        "version": "a0ff15c451ab2827c785924230942fa2ab13141530688b824948d6b43bdb2e07",
+        "signature": "a0ff15c451ab2827c785924230942fa2ab13141530688b824948d6b43bdb2e07",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/validator/index.d.ts": {
@@ -3127,8 +3332,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/uglify-js/index.d.ts": {
-        "version": "6eb4533a72414577ea2d61cac639e20bea6c60639d9238a6aac2b5683f0ac64e",
-        "signature": "6eb4533a72414577ea2d61cac639e20bea6c60639d9238a6aac2b5683f0ac64e",
+        "version": "bee79f5862fe1278d2ba275298862bce3f7abf1e59d9c669c4b9a4b2bba96956",
+        "signature": "bee79f5862fe1278d2ba275298862bce3f7abf1e59d9c669c4b9a4b2bba96956",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/umzug/index.d.ts": {
@@ -3788,6 +3993,127 @@
         "../node_modules/@types/node/index.d.ts",
         "../node_modules/globby/index.d.ts"
       ],
+      "../node_modules/@mikro-orm/knex/abstractsqlconnection.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/abstractsqlplatform.d.ts",
+        "../node_modules/knex/types/index.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/abstractsqldriver.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/abstractsqlconnection.d.ts",
+        "../node_modules/@mikro-orm/knex/abstractsqlplatform.d.ts",
+        "../node_modules/@mikro-orm/knex/query/querybuilder.d.ts",
+        "../node_modules/@mikro-orm/knex/sqlentitymanager.d.ts",
+        "../node_modules/@mikro-orm/knex/typings.d.ts",
+        "../node_modules/knex/types/index.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/abstractsqlplatform.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/schema/index.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/index.d.ts": [
+        "../node_modules/@mikro-orm/knex/abstractsqlconnection.d.ts",
+        "../node_modules/@mikro-orm/knex/abstractsqldriver.d.ts",
+        "../node_modules/@mikro-orm/knex/abstractsqlplatform.d.ts",
+        "../node_modules/@mikro-orm/knex/monkeypatchable.d.ts",
+        "../node_modules/@mikro-orm/knex/query/index.d.ts",
+        "../node_modules/@mikro-orm/knex/schema/index.d.ts",
+        "../node_modules/@mikro-orm/knex/sqlentitymanager.d.ts",
+        "../node_modules/@mikro-orm/knex/sqlentityrepository.d.ts",
+        "../node_modules/@mikro-orm/knex/typings.d.ts",
+        "../node_modules/knex/types/index.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/query/arraycriterianode.d.ts": [
+        "../node_modules/@mikro-orm/knex/query/criterianode.d.ts",
+        "../node_modules/@mikro-orm/knex/typings.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/query/criterianode.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/typings.d.ts",
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/@types/node/util.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/query/criterianodefactory.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/typings.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/query/index.d.ts": [
+        "../node_modules/@mikro-orm/knex/query/arraycriterianode.d.ts",
+        "../node_modules/@mikro-orm/knex/query/criterianode.d.ts",
+        "../node_modules/@mikro-orm/knex/query/criterianodefactory.d.ts",
+        "../node_modules/@mikro-orm/knex/query/enums.d.ts",
+        "../node_modules/@mikro-orm/knex/query/objectcriterianode.d.ts",
+        "../node_modules/@mikro-orm/knex/query/querybuilder.d.ts",
+        "../node_modules/@mikro-orm/knex/query/querybuilderhelper.d.ts",
+        "../node_modules/@mikro-orm/knex/query/scalarcriterianode.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/query/objectcriterianode.d.ts": [
+        "../node_modules/@mikro-orm/knex/query/criterianode.d.ts",
+        "../node_modules/@mikro-orm/knex/typings.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/query/querybuilder.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/abstractsqldriver.d.ts",
+        "../node_modules/@mikro-orm/knex/index.d.ts",
+        "../node_modules/@mikro-orm/knex/query/enums.d.ts",
+        "../node_modules/@mikro-orm/knex/sqlentitymanager.d.ts",
+        "../node_modules/@mikro-orm/knex/typings.d.ts",
+        "../node_modules/knex/types/index.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/query/querybuilderhelper.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/query/enums.d.ts",
+        "../node_modules/@mikro-orm/knex/typings.d.ts",
+        "../node_modules/knex/types/index.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/query/scalarcriterianode.d.ts": [
+        "../node_modules/@mikro-orm/knex/query/criterianode.d.ts",
+        "../node_modules/@mikro-orm/knex/typings.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/schema/databaseschema.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/abstractsqlconnection.d.ts",
+        "../node_modules/@mikro-orm/knex/schema/databasetable.d.ts",
+        "../node_modules/@mikro-orm/knex/schema/schemahelper.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/schema/databasetable.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/schema/schemahelper.d.ts",
+        "../node_modules/@mikro-orm/knex/typings.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/schema/index.d.ts": [
+        "../node_modules/@mikro-orm/knex/schema/databaseschema.d.ts",
+        "../node_modules/@mikro-orm/knex/schema/databasetable.d.ts",
+        "../node_modules/@mikro-orm/knex/schema/schemagenerator.d.ts",
+        "../node_modules/@mikro-orm/knex/schema/schemahelper.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/schema/schemagenerator.d.ts": [
+        "../node_modules/@mikro-orm/knex/sqlentitymanager.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/schema/schemahelper.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/abstractsqlconnection.d.ts",
+        "../node_modules/@mikro-orm/knex/typings.d.ts",
+        "../node_modules/knex/types/index.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/sqlentitymanager.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/abstractsqldriver.d.ts",
+        "../node_modules/@mikro-orm/knex/query/index.d.ts",
+        "../node_modules/@mikro-orm/knex/sqlentityrepository.d.ts",
+        "../node_modules/knex/types/index.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/sqlentityrepository.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/query/index.d.ts",
+        "../node_modules/@mikro-orm/knex/sqlentitymanager.d.ts",
+        "../node_modules/knex/types/index.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/typings.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/query/enums.d.ts",
+        "../node_modules/knex/types/index.d.ts"
+      ],
       "../node_modules/@mikro-orm/nestjs/index.d.ts": [
         "../node_modules/@mikro-orm/nestjs/mikro-orm.common.d.ts",
         "../node_modules/@mikro-orm/nestjs/mikro-orm.middleware.d.ts",
@@ -3811,6 +4137,35 @@
         "../node_modules/@mikro-orm/core/index.d.ts",
         "../node_modules/@nestjs/common/index.d.ts",
         "../node_modules/@nestjs/core/index.d.ts"
+      ],
+      "../node_modules/@mikro-orm/postgresql/index.d.ts": [
+        "../node_modules/@mikro-orm/knex/index.d.ts",
+        "../node_modules/@mikro-orm/postgresql/postgresqlconnection.d.ts",
+        "../node_modules/@mikro-orm/postgresql/postgresqldriver.d.ts",
+        "../node_modules/@mikro-orm/postgresql/postgresqlexceptionconverter.d.ts",
+        "../node_modules/@mikro-orm/postgresql/postgresqlplatform.d.ts",
+        "../node_modules/@mikro-orm/postgresql/postgresqlschemahelper.d.ts"
+      ],
+      "../node_modules/@mikro-orm/postgresql/postgresqlconnection.d.ts": [
+        "../node_modules/@mikro-orm/knex/index.d.ts"
+      ],
+      "../node_modules/@mikro-orm/postgresql/postgresqldriver.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/index.d.ts",
+        "../node_modules/@mikro-orm/postgresql/postgresqlconnection.d.ts"
+      ],
+      "../node_modules/@mikro-orm/postgresql/postgresqlexceptionconverter.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts"
+      ],
+      "../node_modules/@mikro-orm/postgresql/postgresqlplatform.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/index.d.ts",
+        "../node_modules/@mikro-orm/postgresql/postgresqlexceptionconverter.d.ts",
+        "../node_modules/@mikro-orm/postgresql/postgresqlschemahelper.d.ts"
+      ],
+      "../node_modules/@mikro-orm/postgresql/postgresqlschemahelper.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/index.d.ts"
       ],
       "../node_modules/@nestjs/common/cache/cache.module.d.ts": [
         "../node_modules/@nestjs/common/cache/interfaces/cache-module.interface.d.ts",
@@ -4552,6 +4907,9 @@
         "../node_modules/@types/keygrip/index.d.ts",
         "../node_modules/@types/node/http.d.ts",
         "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@types/cors/index.d.ts": [
+        "../node_modules/@types/express/index.d.ts"
       ],
       "../node_modules/@types/eslint-scope/index.d.ts": [
         "../node_modules/@types/eslint/index.d.ts",
@@ -5692,6 +6050,14 @@
         "../node_modules/jest-diff/build/cleanupsemantic.d.ts",
         "../node_modules/jest-diff/build/types.d.ts"
       ],
+      "../node_modules/knex/types/index.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/knex/types/result.d.ts",
+        "../node_modules/knex/types/tables.d.ts",
+        "../node_modules/tarn/dist/tarn.d.ts"
+      ],
       "../node_modules/pretty-format/build/index.d.ts": [
         "../node_modules/pretty-format/build/types.d.ts"
       ],
@@ -5992,21 +6358,54 @@
       "../node_modules/rxjs/internal/util/pipe.d.ts": [
         "../node_modules/rxjs/internal/types.d.ts"
       ],
+      "../node_modules/tarn/dist/pendingoperation.d.ts": [
+        "../node_modules/tarn/dist/utils.d.ts"
+      ],
+      "../node_modules/tarn/dist/pool.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/tarn/dist/pendingoperation.d.ts",
+        "../node_modules/tarn/dist/promiseinspection.d.ts",
+        "../node_modules/tarn/dist/resource.d.ts"
+      ],
+      "../node_modules/tarn/dist/resource.d.ts": [
+        "../node_modules/tarn/dist/utils.d.ts"
+      ],
+      "../node_modules/tarn/dist/tarn.d.ts": [
+        "../node_modules/tarn/dist/pool.d.ts",
+        "../node_modules/tarn/dist/timeouterror.d.ts"
+      ],
+      "../node_modules/tarn/dist/utils.d.ts": [
+        "../node_modules/tarn/dist/promiseinspection.d.ts"
+      ],
       "../src/app.controller.ts": [
-        "../node_modules/@nestjs/common/index.d.ts"
+        "../node_modules/@nestjs/common/index.d.ts",
+        "../src/app.service.ts"
       ],
       "../src/app.module.ts": [
         "../mikro-orm.config.ts",
         "../node_modules/@mikro-orm/nestjs/index.d.ts",
         "../node_modules/@nestjs/common/index.d.ts",
-        "../src/app.controller.ts"
+        "../src/app.controller.ts",
+        "../src/app.service.ts"
+      ],
+      "../src/app.service.ts": [
+        "../node_modules/@mikro-orm/postgresql/index.d.ts",
+        "../node_modules/@nestjs/common/index.d.ts",
+        "../src/author/entities/author.entities.ts",
+        "../src/post/entities/post.entities.ts"
       ],
       "../src/author/entities/author.entities.ts": [
-        "../node_modules/@mikro-orm/core/index.d.ts"
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../src/post/entities/post.entities.ts"
       ],
       "../src/main.ts": [
         "../node_modules/@nestjs/core/index.d.ts",
         "../src/app.module.ts"
+      ],
+      "../src/post/entities/post.entities.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../src/author/entities/author.entities.ts"
       ]
     },
     "exportedModulesMap": {
@@ -6555,6 +6954,127 @@
         "../node_modules/@types/node/index.d.ts",
         "../node_modules/globby/index.d.ts"
       ],
+      "../node_modules/@mikro-orm/knex/abstractsqlconnection.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/abstractsqlplatform.d.ts",
+        "../node_modules/knex/types/index.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/abstractsqldriver.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/abstractsqlconnection.d.ts",
+        "../node_modules/@mikro-orm/knex/abstractsqlplatform.d.ts",
+        "../node_modules/@mikro-orm/knex/query/querybuilder.d.ts",
+        "../node_modules/@mikro-orm/knex/sqlentitymanager.d.ts",
+        "../node_modules/@mikro-orm/knex/typings.d.ts",
+        "../node_modules/knex/types/index.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/abstractsqlplatform.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/schema/index.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/index.d.ts": [
+        "../node_modules/@mikro-orm/knex/abstractsqlconnection.d.ts",
+        "../node_modules/@mikro-orm/knex/abstractsqldriver.d.ts",
+        "../node_modules/@mikro-orm/knex/abstractsqlplatform.d.ts",
+        "../node_modules/@mikro-orm/knex/monkeypatchable.d.ts",
+        "../node_modules/@mikro-orm/knex/query/index.d.ts",
+        "../node_modules/@mikro-orm/knex/schema/index.d.ts",
+        "../node_modules/@mikro-orm/knex/sqlentitymanager.d.ts",
+        "../node_modules/@mikro-orm/knex/sqlentityrepository.d.ts",
+        "../node_modules/@mikro-orm/knex/typings.d.ts",
+        "../node_modules/knex/types/index.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/query/arraycriterianode.d.ts": [
+        "../node_modules/@mikro-orm/knex/query/criterianode.d.ts",
+        "../node_modules/@mikro-orm/knex/typings.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/query/criterianode.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/typings.d.ts",
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/@types/node/util.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/query/criterianodefactory.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/typings.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/query/index.d.ts": [
+        "../node_modules/@mikro-orm/knex/query/arraycriterianode.d.ts",
+        "../node_modules/@mikro-orm/knex/query/criterianode.d.ts",
+        "../node_modules/@mikro-orm/knex/query/criterianodefactory.d.ts",
+        "../node_modules/@mikro-orm/knex/query/enums.d.ts",
+        "../node_modules/@mikro-orm/knex/query/objectcriterianode.d.ts",
+        "../node_modules/@mikro-orm/knex/query/querybuilder.d.ts",
+        "../node_modules/@mikro-orm/knex/query/querybuilderhelper.d.ts",
+        "../node_modules/@mikro-orm/knex/query/scalarcriterianode.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/query/objectcriterianode.d.ts": [
+        "../node_modules/@mikro-orm/knex/query/criterianode.d.ts",
+        "../node_modules/@mikro-orm/knex/typings.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/query/querybuilder.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/abstractsqldriver.d.ts",
+        "../node_modules/@mikro-orm/knex/index.d.ts",
+        "../node_modules/@mikro-orm/knex/query/enums.d.ts",
+        "../node_modules/@mikro-orm/knex/sqlentitymanager.d.ts",
+        "../node_modules/@mikro-orm/knex/typings.d.ts",
+        "../node_modules/knex/types/index.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/query/querybuilderhelper.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/query/enums.d.ts",
+        "../node_modules/@mikro-orm/knex/typings.d.ts",
+        "../node_modules/knex/types/index.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/query/scalarcriterianode.d.ts": [
+        "../node_modules/@mikro-orm/knex/query/criterianode.d.ts",
+        "../node_modules/@mikro-orm/knex/typings.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/schema/databaseschema.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/abstractsqlconnection.d.ts",
+        "../node_modules/@mikro-orm/knex/schema/databasetable.d.ts",
+        "../node_modules/@mikro-orm/knex/schema/schemahelper.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/schema/databasetable.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/schema/schemahelper.d.ts",
+        "../node_modules/@mikro-orm/knex/typings.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/schema/index.d.ts": [
+        "../node_modules/@mikro-orm/knex/schema/databaseschema.d.ts",
+        "../node_modules/@mikro-orm/knex/schema/databasetable.d.ts",
+        "../node_modules/@mikro-orm/knex/schema/schemagenerator.d.ts",
+        "../node_modules/@mikro-orm/knex/schema/schemahelper.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/schema/schemagenerator.d.ts": [
+        "../node_modules/@mikro-orm/knex/sqlentitymanager.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/schema/schemahelper.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/abstractsqlconnection.d.ts",
+        "../node_modules/@mikro-orm/knex/typings.d.ts",
+        "../node_modules/knex/types/index.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/sqlentitymanager.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/abstractsqldriver.d.ts",
+        "../node_modules/@mikro-orm/knex/query/index.d.ts",
+        "../node_modules/@mikro-orm/knex/sqlentityrepository.d.ts",
+        "../node_modules/knex/types/index.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/sqlentityrepository.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/query/index.d.ts",
+        "../node_modules/@mikro-orm/knex/sqlentitymanager.d.ts",
+        "../node_modules/knex/types/index.d.ts"
+      ],
+      "../node_modules/@mikro-orm/knex/typings.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/query/enums.d.ts",
+        "../node_modules/knex/types/index.d.ts"
+      ],
       "../node_modules/@mikro-orm/nestjs/index.d.ts": [
         "../node_modules/@mikro-orm/nestjs/mikro-orm.common.d.ts",
         "../node_modules/@mikro-orm/nestjs/mikro-orm.middleware.d.ts",
@@ -6578,6 +7098,35 @@
         "../node_modules/@mikro-orm/core/index.d.ts",
         "../node_modules/@nestjs/common/index.d.ts",
         "../node_modules/@nestjs/core/index.d.ts"
+      ],
+      "../node_modules/@mikro-orm/postgresql/index.d.ts": [
+        "../node_modules/@mikro-orm/knex/index.d.ts",
+        "../node_modules/@mikro-orm/postgresql/postgresqlconnection.d.ts",
+        "../node_modules/@mikro-orm/postgresql/postgresqldriver.d.ts",
+        "../node_modules/@mikro-orm/postgresql/postgresqlexceptionconverter.d.ts",
+        "../node_modules/@mikro-orm/postgresql/postgresqlplatform.d.ts",
+        "../node_modules/@mikro-orm/postgresql/postgresqlschemahelper.d.ts"
+      ],
+      "../node_modules/@mikro-orm/postgresql/postgresqlconnection.d.ts": [
+        "../node_modules/@mikro-orm/knex/index.d.ts"
+      ],
+      "../node_modules/@mikro-orm/postgresql/postgresqldriver.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/index.d.ts",
+        "../node_modules/@mikro-orm/postgresql/postgresqlconnection.d.ts"
+      ],
+      "../node_modules/@mikro-orm/postgresql/postgresqlexceptionconverter.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts"
+      ],
+      "../node_modules/@mikro-orm/postgresql/postgresqlplatform.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/index.d.ts",
+        "../node_modules/@mikro-orm/postgresql/postgresqlexceptionconverter.d.ts",
+        "../node_modules/@mikro-orm/postgresql/postgresqlschemahelper.d.ts"
+      ],
+      "../node_modules/@mikro-orm/postgresql/postgresqlschemahelper.d.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../node_modules/@mikro-orm/knex/index.d.ts"
       ],
       "../node_modules/@nestjs/common/cache/cache.module.d.ts": [
         "../node_modules/@nestjs/common/cache/interfaces/cache-module.interface.d.ts",
@@ -7319,6 +7868,9 @@
         "../node_modules/@types/keygrip/index.d.ts",
         "../node_modules/@types/node/http.d.ts",
         "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@types/cors/index.d.ts": [
+        "../node_modules/@types/express/index.d.ts"
       ],
       "../node_modules/@types/eslint-scope/index.d.ts": [
         "../node_modules/@types/eslint/index.d.ts",
@@ -8459,6 +9011,14 @@
         "../node_modules/jest-diff/build/cleanupsemantic.d.ts",
         "../node_modules/jest-diff/build/types.d.ts"
       ],
+      "../node_modules/knex/types/index.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/knex/types/result.d.ts",
+        "../node_modules/knex/types/tables.d.ts",
+        "../node_modules/tarn/dist/tarn.d.ts"
+      ],
       "../node_modules/pretty-format/build/index.d.ts": [
         "../node_modules/pretty-format/build/types.d.ts"
       ],
@@ -8758,9 +9318,729 @@
       ],
       "../node_modules/rxjs/internal/util/pipe.d.ts": [
         "../node_modules/rxjs/internal/types.d.ts"
+      ],
+      "../node_modules/tarn/dist/pendingoperation.d.ts": [
+        "../node_modules/tarn/dist/utils.d.ts"
+      ],
+      "../node_modules/tarn/dist/pool.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/tarn/dist/pendingoperation.d.ts",
+        "../node_modules/tarn/dist/promiseinspection.d.ts",
+        "../node_modules/tarn/dist/resource.d.ts"
+      ],
+      "../node_modules/tarn/dist/resource.d.ts": [
+        "../node_modules/tarn/dist/utils.d.ts"
+      ],
+      "../node_modules/tarn/dist/tarn.d.ts": [
+        "../node_modules/tarn/dist/pool.d.ts",
+        "../node_modules/tarn/dist/timeouterror.d.ts"
+      ],
+      "../node_modules/tarn/dist/utils.d.ts": [
+        "../node_modules/tarn/dist/promiseinspection.d.ts"
+      ],
+      "../src/app.controller.ts": [
+        "../src/app.service.ts"
+      ],
+      "../src/app.service.ts": [
+        "../node_modules/@mikro-orm/postgresql/index.d.ts"
+      ],
+      "../src/author/entities/author.entities.ts": [
+        "../node_modules/@mikro-orm/core/index.d.ts",
+        "../src/post/entities/post.entities.ts"
+      ],
+      "../src/post/entities/post.entities.ts": [
+        "../src/author/entities/author.entities.ts"
       ]
     },
-    "semanticDiagnosticsPerFile": []
+    "semanticDiagnosticsPerFile": [
+      "../mikro-orm.config.ts",
+      "../node_modules/@babel/parser/typings/babel-parser.d.ts",
+      "../node_modules/@babel/types/lib/index.d.ts",
+      "../node_modules/@mikro-orm/core/cache/cacheadapter.d.ts",
+      "../node_modules/@mikro-orm/core/cache/filecacheadapter.d.ts",
+      "../node_modules/@mikro-orm/core/cache/index.d.ts",
+      "../node_modules/@mikro-orm/core/cache/memorycacheadapter.d.ts",
+      "../node_modules/@mikro-orm/core/cache/nullcacheadapter.d.ts",
+      "../node_modules/@mikro-orm/core/connections/connection.d.ts",
+      "../node_modules/@mikro-orm/core/connections/index.d.ts",
+      "../node_modules/@mikro-orm/core/decorators/embeddable.d.ts",
+      "../node_modules/@mikro-orm/core/decorators/embedded.d.ts",
+      "../node_modules/@mikro-orm/core/decorators/entity.d.ts",
+      "../node_modules/@mikro-orm/core/decorators/enum.d.ts",
+      "../node_modules/@mikro-orm/core/decorators/filter.d.ts",
+      "../node_modules/@mikro-orm/core/decorators/formula.d.ts",
+      "../node_modules/@mikro-orm/core/decorators/hooks.d.ts",
+      "../node_modules/@mikro-orm/core/decorators/index.d.ts",
+      "../node_modules/@mikro-orm/core/decorators/indexed.d.ts",
+      "../node_modules/@mikro-orm/core/decorators/manytomany.d.ts",
+      "../node_modules/@mikro-orm/core/decorators/manytoone.d.ts",
+      "../node_modules/@mikro-orm/core/decorators/onetomany.d.ts",
+      "../node_modules/@mikro-orm/core/decorators/onetoone.d.ts",
+      "../node_modules/@mikro-orm/core/decorators/primarykey.d.ts",
+      "../node_modules/@mikro-orm/core/decorators/property.d.ts",
+      "../node_modules/@mikro-orm/core/decorators/repository.d.ts",
+      "../node_modules/@mikro-orm/core/decorators/subscriber.d.ts",
+      "../node_modules/@mikro-orm/core/drivers/databasedriver.d.ts",
+      "../node_modules/@mikro-orm/core/drivers/idatabasedriver.d.ts",
+      "../node_modules/@mikro-orm/core/drivers/index.d.ts",
+      "../node_modules/@mikro-orm/core/entity/arraycollection.d.ts",
+      "../node_modules/@mikro-orm/core/entity/baseentity.d.ts",
+      "../node_modules/@mikro-orm/core/entity/collection.d.ts",
+      "../node_modules/@mikro-orm/core/entity/entityassigner.d.ts",
+      "../node_modules/@mikro-orm/core/entity/entityfactory.d.ts",
+      "../node_modules/@mikro-orm/core/entity/entityhelper.d.ts",
+      "../node_modules/@mikro-orm/core/entity/entityidentifier.d.ts",
+      "../node_modules/@mikro-orm/core/entity/entityloader.d.ts",
+      "../node_modules/@mikro-orm/core/entity/entityrepository.d.ts",
+      "../node_modules/@mikro-orm/core/entity/entitytransformer.d.ts",
+      "../node_modules/@mikro-orm/core/entity/entityvalidator.d.ts",
+      "../node_modules/@mikro-orm/core/entity/index.d.ts",
+      "../node_modules/@mikro-orm/core/entity/reference.d.ts",
+      "../node_modules/@mikro-orm/core/entity/wrap.d.ts",
+      "../node_modules/@mikro-orm/core/entity/wrappedentity.d.ts",
+      "../node_modules/@mikro-orm/core/entitymanager.d.ts",
+      "../node_modules/@mikro-orm/core/enums.d.ts",
+      "../node_modules/@mikro-orm/core/errors.d.ts",
+      "../node_modules/@mikro-orm/core/events/eventmanager.d.ts",
+      "../node_modules/@mikro-orm/core/events/eventsubscriber.d.ts",
+      "../node_modules/@mikro-orm/core/events/index.d.ts",
+      "../node_modules/@mikro-orm/core/events/transactioneventbroadcaster.d.ts",
+      "../node_modules/@mikro-orm/core/exceptions.d.ts",
+      "../node_modules/@mikro-orm/core/hydration/hydrator.d.ts",
+      "../node_modules/@mikro-orm/core/hydration/index.d.ts",
+      "../node_modules/@mikro-orm/core/hydration/objecthydrator.d.ts",
+      "../node_modules/@mikro-orm/core/index.d.ts",
+      "../node_modules/@mikro-orm/core/metadata/entityschema.d.ts",
+      "../node_modules/@mikro-orm/core/metadata/index.d.ts",
+      "../node_modules/@mikro-orm/core/metadata/javascriptmetadataprovider.d.ts",
+      "../node_modules/@mikro-orm/core/metadata/metadatadiscovery.d.ts",
+      "../node_modules/@mikro-orm/core/metadata/metadataprovider.d.ts",
+      "../node_modules/@mikro-orm/core/metadata/metadatastorage.d.ts",
+      "../node_modules/@mikro-orm/core/metadata/metadatavalidator.d.ts",
+      "../node_modules/@mikro-orm/core/metadata/reflectmetadataprovider.d.ts",
+      "../node_modules/@mikro-orm/core/mikroorm.d.ts",
+      "../node_modules/@mikro-orm/core/naming-strategy/abstractnamingstrategy.d.ts",
+      "../node_modules/@mikro-orm/core/naming-strategy/entitycasenamingstrategy.d.ts",
+      "../node_modules/@mikro-orm/core/naming-strategy/index.d.ts",
+      "../node_modules/@mikro-orm/core/naming-strategy/mongonamingstrategy.d.ts",
+      "../node_modules/@mikro-orm/core/naming-strategy/namingstrategy.d.ts",
+      "../node_modules/@mikro-orm/core/naming-strategy/underscorenamingstrategy.d.ts",
+      "../node_modules/@mikro-orm/core/platforms/exceptionconverter.d.ts",
+      "../node_modules/@mikro-orm/core/platforms/index.d.ts",
+      "../node_modules/@mikro-orm/core/platforms/platform.d.ts",
+      "../node_modules/@mikro-orm/core/types/arraytype.d.ts",
+      "../node_modules/@mikro-orm/core/types/biginttype.d.ts",
+      "../node_modules/@mikro-orm/core/types/blobtype.d.ts",
+      "../node_modules/@mikro-orm/core/types/datetype.d.ts",
+      "../node_modules/@mikro-orm/core/types/enumarraytype.d.ts",
+      "../node_modules/@mikro-orm/core/types/index.d.ts",
+      "../node_modules/@mikro-orm/core/types/jsontype.d.ts",
+      "../node_modules/@mikro-orm/core/types/timetype.d.ts",
+      "../node_modules/@mikro-orm/core/types/type.d.ts",
+      "../node_modules/@mikro-orm/core/typings.d.ts",
+      "../node_modules/@mikro-orm/core/unit-of-work/changeset.d.ts",
+      "../node_modules/@mikro-orm/core/unit-of-work/changesetcomputer.d.ts",
+      "../node_modules/@mikro-orm/core/unit-of-work/changesetpersister.d.ts",
+      "../node_modules/@mikro-orm/core/unit-of-work/commitordercalculator.d.ts",
+      "../node_modules/@mikro-orm/core/unit-of-work/identitymap.d.ts",
+      "../node_modules/@mikro-orm/core/unit-of-work/index.d.ts",
+      "../node_modules/@mikro-orm/core/unit-of-work/unitofwork.d.ts",
+      "../node_modules/@mikro-orm/core/utils/configuration.d.ts",
+      "../node_modules/@mikro-orm/core/utils/configurationloader.d.ts",
+      "../node_modules/@mikro-orm/core/utils/entitycomparator.d.ts",
+      "../node_modules/@mikro-orm/core/utils/index.d.ts",
+      "../node_modules/@mikro-orm/core/utils/logger.d.ts",
+      "../node_modules/@mikro-orm/core/utils/nullhighlighter.d.ts",
+      "../node_modules/@mikro-orm/core/utils/queryhelper.d.ts",
+      "../node_modules/@mikro-orm/core/utils/requestcontext.d.ts",
+      "../node_modules/@mikro-orm/core/utils/transactioncontext.d.ts",
+      "../node_modules/@mikro-orm/core/utils/utils.d.ts",
+      "../node_modules/@mikro-orm/knex/abstractsqlconnection.d.ts",
+      "../node_modules/@mikro-orm/knex/abstractsqldriver.d.ts",
+      "../node_modules/@mikro-orm/knex/abstractsqlplatform.d.ts",
+      "../node_modules/@mikro-orm/knex/index.d.ts",
+      "../node_modules/@mikro-orm/knex/monkeypatchable.d.ts",
+      "../node_modules/@mikro-orm/knex/query/arraycriterianode.d.ts",
+      "../node_modules/@mikro-orm/knex/query/criterianode.d.ts",
+      "../node_modules/@mikro-orm/knex/query/criterianodefactory.d.ts",
+      "../node_modules/@mikro-orm/knex/query/enums.d.ts",
+      "../node_modules/@mikro-orm/knex/query/index.d.ts",
+      "../node_modules/@mikro-orm/knex/query/objectcriterianode.d.ts",
+      "../node_modules/@mikro-orm/knex/query/querybuilder.d.ts",
+      "../node_modules/@mikro-orm/knex/query/querybuilderhelper.d.ts",
+      "../node_modules/@mikro-orm/knex/query/scalarcriterianode.d.ts",
+      "../node_modules/@mikro-orm/knex/schema/databaseschema.d.ts",
+      "../node_modules/@mikro-orm/knex/schema/databasetable.d.ts",
+      "../node_modules/@mikro-orm/knex/schema/index.d.ts",
+      "../node_modules/@mikro-orm/knex/schema/schemagenerator.d.ts",
+      "../node_modules/@mikro-orm/knex/schema/schemahelper.d.ts",
+      "../node_modules/@mikro-orm/knex/sqlentitymanager.d.ts",
+      "../node_modules/@mikro-orm/knex/sqlentityrepository.d.ts",
+      "../node_modules/@mikro-orm/knex/typings.d.ts",
+      "../node_modules/@mikro-orm/nestjs/index.d.ts",
+      "../node_modules/@mikro-orm/nestjs/mikro-orm.common.d.ts",
+      "../node_modules/@mikro-orm/nestjs/mikro-orm.middleware.d.ts",
+      "../node_modules/@mikro-orm/nestjs/mikro-orm.module.d.ts",
+      "../node_modules/@mikro-orm/nestjs/typings.d.ts",
+      "../node_modules/@mikro-orm/postgresql/index.d.ts",
+      "../node_modules/@mikro-orm/postgresql/postgresqlconnection.d.ts",
+      "../node_modules/@mikro-orm/postgresql/postgresqldriver.d.ts",
+      "../node_modules/@mikro-orm/postgresql/postgresqlexceptionconverter.d.ts",
+      "../node_modules/@mikro-orm/postgresql/postgresqlplatform.d.ts",
+      "../node_modules/@mikro-orm/postgresql/postgresqlschemahelper.d.ts",
+      "../node_modules/@nestjs/common/cache/cache.constants.d.ts",
+      "../node_modules/@nestjs/common/cache/cache.module.d.ts",
+      "../node_modules/@nestjs/common/cache/decorators/cache-key.decorator.d.ts",
+      "../node_modules/@nestjs/common/cache/decorators/cache-ttl.decorator.d.ts",
+      "../node_modules/@nestjs/common/cache/decorators/index.d.ts",
+      "../node_modules/@nestjs/common/cache/index.d.ts",
+      "../node_modules/@nestjs/common/cache/interceptors/cache.interceptor.d.ts",
+      "../node_modules/@nestjs/common/cache/interceptors/index.d.ts",
+      "../node_modules/@nestjs/common/cache/interfaces/cache-manager.interface.d.ts",
+      "../node_modules/@nestjs/common/cache/interfaces/cache-module.interface.d.ts",
+      "../node_modules/@nestjs/common/cache/interfaces/index.d.ts",
+      "../node_modules/@nestjs/common/decorators/core/apply-decorators.d.ts",
+      "../node_modules/@nestjs/common/decorators/core/bind.decorator.d.ts",
+      "../node_modules/@nestjs/common/decorators/core/catch.decorator.d.ts",
+      "../node_modules/@nestjs/common/decorators/core/controller.decorator.d.ts",
+      "../node_modules/@nestjs/common/decorators/core/dependencies.decorator.d.ts",
+      "../node_modules/@nestjs/common/decorators/core/exception-filters.decorator.d.ts",
+      "../node_modules/@nestjs/common/decorators/core/index.d.ts",
+      "../node_modules/@nestjs/common/decorators/core/inject.decorator.d.ts",
+      "../node_modules/@nestjs/common/decorators/core/injectable.decorator.d.ts",
+      "../node_modules/@nestjs/common/decorators/core/optional.decorator.d.ts",
+      "../node_modules/@nestjs/common/decorators/core/set-metadata.decorator.d.ts",
+      "../node_modules/@nestjs/common/decorators/core/use-guards.decorator.d.ts",
+      "../node_modules/@nestjs/common/decorators/core/use-interceptors.decorator.d.ts",
+      "../node_modules/@nestjs/common/decorators/core/use-pipes.decorator.d.ts",
+      "../node_modules/@nestjs/common/decorators/http/create-route-param-metadata.decorator.d.ts",
+      "../node_modules/@nestjs/common/decorators/http/header.decorator.d.ts",
+      "../node_modules/@nestjs/common/decorators/http/http-code.decorator.d.ts",
+      "../node_modules/@nestjs/common/decorators/http/index.d.ts",
+      "../node_modules/@nestjs/common/decorators/http/redirect.decorator.d.ts",
+      "../node_modules/@nestjs/common/decorators/http/render.decorator.d.ts",
+      "../node_modules/@nestjs/common/decorators/http/request-mapping.decorator.d.ts",
+      "../node_modules/@nestjs/common/decorators/http/route-params.decorator.d.ts",
+      "../node_modules/@nestjs/common/decorators/http/sse.decorator.d.ts",
+      "../node_modules/@nestjs/common/decorators/index.d.ts",
+      "../node_modules/@nestjs/common/decorators/modules/global.decorator.d.ts",
+      "../node_modules/@nestjs/common/decorators/modules/index.d.ts",
+      "../node_modules/@nestjs/common/decorators/modules/module.decorator.d.ts",
+      "../node_modules/@nestjs/common/enums/http-status.enum.d.ts",
+      "../node_modules/@nestjs/common/enums/index.d.ts",
+      "../node_modules/@nestjs/common/enums/request-method.enum.d.ts",
+      "../node_modules/@nestjs/common/enums/shutdown-signal.enum.d.ts",
+      "../node_modules/@nestjs/common/exceptions/bad-gateway.exception.d.ts",
+      "../node_modules/@nestjs/common/exceptions/bad-request.exception.d.ts",
+      "../node_modules/@nestjs/common/exceptions/conflict.exception.d.ts",
+      "../node_modules/@nestjs/common/exceptions/forbidden.exception.d.ts",
+      "../node_modules/@nestjs/common/exceptions/gateway-timeout.exception.d.ts",
+      "../node_modules/@nestjs/common/exceptions/gone.exception.d.ts",
+      "../node_modules/@nestjs/common/exceptions/http-version-not-supported.exception.d.ts",
+      "../node_modules/@nestjs/common/exceptions/http.exception.d.ts",
+      "../node_modules/@nestjs/common/exceptions/im-a-teapot.exception.d.ts",
+      "../node_modules/@nestjs/common/exceptions/index.d.ts",
+      "../node_modules/@nestjs/common/exceptions/internal-server-error.exception.d.ts",
+      "../node_modules/@nestjs/common/exceptions/method-not-allowed.exception.d.ts",
+      "../node_modules/@nestjs/common/exceptions/misdirected.exception.d.ts",
+      "../node_modules/@nestjs/common/exceptions/not-acceptable.exception.d.ts",
+      "../node_modules/@nestjs/common/exceptions/not-found.exception.d.ts",
+      "../node_modules/@nestjs/common/exceptions/not-implemented.exception.d.ts",
+      "../node_modules/@nestjs/common/exceptions/payload-too-large.exception.d.ts",
+      "../node_modules/@nestjs/common/exceptions/precondition-failed.exception.d.ts",
+      "../node_modules/@nestjs/common/exceptions/request-timeout.exception.d.ts",
+      "../node_modules/@nestjs/common/exceptions/service-unavailable.exception.d.ts",
+      "../node_modules/@nestjs/common/exceptions/unauthorized.exception.d.ts",
+      "../node_modules/@nestjs/common/exceptions/unprocessable-entity.exception.d.ts",
+      "../node_modules/@nestjs/common/exceptions/unsupported-media-type.exception.d.ts",
+      "../node_modules/@nestjs/common/http/http.module.d.ts",
+      "../node_modules/@nestjs/common/http/http.service.d.ts",
+      "../node_modules/@nestjs/common/http/index.d.ts",
+      "../node_modules/@nestjs/common/http/interfaces/http-module.interface.d.ts",
+      "../node_modules/@nestjs/common/http/interfaces/index.d.ts",
+      "../node_modules/@nestjs/common/index.d.ts",
+      "../node_modules/@nestjs/common/interfaces/abstract.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/controllers/controller-metadata.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/controllers/controller.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/exceptions/exception-filter.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/exceptions/rpc-exception-filter.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/exceptions/ws-exception-filter.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/external/class-transform-options.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/external/cors-options.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/external/https-options.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/external/validation-error.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/external/validator-options.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/features/arguments-host.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/features/can-activate.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/features/custom-route-param-factory.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/features/execution-context.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/features/nest-interceptor.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/features/paramtype.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/features/pipe-transform.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/hooks/before-application-shutdown.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/hooks/index.d.ts",
+      "../node_modules/@nestjs/common/interfaces/hooks/on-application-bootstrap.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/hooks/on-application-shutdown.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/hooks/on-destroy.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/hooks/on-init.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/http/http-server.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/http/index.d.ts",
+      "../node_modules/@nestjs/common/interfaces/http/message-event.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/index.d.ts",
+      "../node_modules/@nestjs/common/interfaces/injectable.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/microservices/nest-hybrid-application-options.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/microservices/nest-microservice-options.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/middleware/index.d.ts",
+      "../node_modules/@nestjs/common/interfaces/middleware/middleware-config-proxy.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/middleware/middleware-configuration.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/middleware/middleware-consumer.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/middleware/nest-middleware.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/modules/dynamic-module.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/modules/forward-reference.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/modules/index.d.ts",
+      "../node_modules/@nestjs/common/interfaces/modules/introspection-result.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/modules/module-metadata.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/modules/nest-module.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/modules/provider.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/nest-application-context-options.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/nest-application-context.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/nest-application-options.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/nest-application.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/nest-microservice.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/scope-options.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/type.interface.d.ts",
+      "../node_modules/@nestjs/common/interfaces/websockets/web-socket-adapter.interface.d.ts",
+      "../node_modules/@nestjs/common/pipes/default-value.pipe.d.ts",
+      "../node_modules/@nestjs/common/pipes/index.d.ts",
+      "../node_modules/@nestjs/common/pipes/parse-array.pipe.d.ts",
+      "../node_modules/@nestjs/common/pipes/parse-bool.pipe.d.ts",
+      "../node_modules/@nestjs/common/pipes/parse-int.pipe.d.ts",
+      "../node_modules/@nestjs/common/pipes/parse-uuid.pipe.d.ts",
+      "../node_modules/@nestjs/common/pipes/validation.pipe.d.ts",
+      "../node_modules/@nestjs/common/serializer/class-serializer.interceptor.d.ts",
+      "../node_modules/@nestjs/common/serializer/decorators/index.d.ts",
+      "../node_modules/@nestjs/common/serializer/decorators/serialize-options.decorator.d.ts",
+      "../node_modules/@nestjs/common/serializer/index.d.ts",
+      "../node_modules/@nestjs/common/services/index.d.ts",
+      "../node_modules/@nestjs/common/services/logger.service.d.ts",
+      "../node_modules/@nestjs/common/utils/forward-ref.util.d.ts",
+      "../node_modules/@nestjs/common/utils/http-error-by-code.util.d.ts",
+      "../node_modules/@nestjs/common/utils/index.d.ts",
+      "../node_modules/@nestjs/core/adapters/http-adapter.d.ts",
+      "../node_modules/@nestjs/core/adapters/index.d.ts",
+      "../node_modules/@nestjs/core/application-config.d.ts",
+      "../node_modules/@nestjs/core/constants.d.ts",
+      "../node_modules/@nestjs/core/discovery/discovery-module.d.ts",
+      "../node_modules/@nestjs/core/discovery/discovery-service.d.ts",
+      "../node_modules/@nestjs/core/discovery/index.d.ts",
+      "../node_modules/@nestjs/core/exceptions/base-exception-filter.d.ts",
+      "../node_modules/@nestjs/core/exceptions/index.d.ts",
+      "../node_modules/@nestjs/core/helpers/context-id-factory.d.ts",
+      "../node_modules/@nestjs/core/helpers/http-adapter-host.d.ts",
+      "../node_modules/@nestjs/core/helpers/index.d.ts",
+      "../node_modules/@nestjs/core/index.d.ts",
+      "../node_modules/@nestjs/core/injector/container.d.ts",
+      "../node_modules/@nestjs/core/injector/index.d.ts",
+      "../node_modules/@nestjs/core/injector/injector.d.ts",
+      "../node_modules/@nestjs/core/injector/inquirer/index.d.ts",
+      "../node_modules/@nestjs/core/injector/inquirer/inquirer-constants.d.ts",
+      "../node_modules/@nestjs/core/injector/instance-wrapper.d.ts",
+      "../node_modules/@nestjs/core/injector/module-ref.d.ts",
+      "../node_modules/@nestjs/core/injector/module-token-factory.d.ts",
+      "../node_modules/@nestjs/core/injector/module.d.ts",
+      "../node_modules/@nestjs/core/injector/modules-container.d.ts",
+      "../node_modules/@nestjs/core/metadata-scanner.d.ts",
+      "../node_modules/@nestjs/core/middleware/builder.d.ts",
+      "../node_modules/@nestjs/core/middleware/index.d.ts",
+      "../node_modules/@nestjs/core/middleware/routes-mapper.d.ts",
+      "../node_modules/@nestjs/core/nest-application-context.d.ts",
+      "../node_modules/@nestjs/core/nest-application.d.ts",
+      "../node_modules/@nestjs/core/nest-factory.d.ts",
+      "../node_modules/@nestjs/core/router/index.d.ts",
+      "../node_modules/@nestjs/core/router/request/index.d.ts",
+      "../node_modules/@nestjs/core/router/request/request-constants.d.ts",
+      "../node_modules/@nestjs/core/services/index.d.ts",
+      "../node_modules/@nestjs/core/services/reflector.service.d.ts",
+      "../node_modules/@nodelib/fs.scandir/out/adapters/fs.d.ts",
+      "../node_modules/@nodelib/fs.scandir/out/index.d.ts",
+      "../node_modules/@nodelib/fs.scandir/out/providers/async.d.ts",
+      "../node_modules/@nodelib/fs.scandir/out/settings.d.ts",
+      "../node_modules/@nodelib/fs.scandir/out/types/index.d.ts",
+      "../node_modules/@nodelib/fs.stat/out/adapters/fs.d.ts",
+      "../node_modules/@nodelib/fs.stat/out/index.d.ts",
+      "../node_modules/@nodelib/fs.stat/out/providers/async.d.ts",
+      "../node_modules/@nodelib/fs.stat/out/settings.d.ts",
+      "../node_modules/@nodelib/fs.stat/out/types/index.d.ts",
+      "../node_modules/@nodelib/fs.walk/out/index.d.ts",
+      "../node_modules/@nodelib/fs.walk/out/providers/async.d.ts",
+      "../node_modules/@nodelib/fs.walk/out/readers/async.d.ts",
+      "../node_modules/@nodelib/fs.walk/out/readers/reader.d.ts",
+      "../node_modules/@nodelib/fs.walk/out/settings.d.ts",
+      "../node_modules/@nodelib/fs.walk/out/types/index.d.ts",
+      "../node_modules/@types/accepts/index.d.ts",
+      "../node_modules/@types/anymatch/index.d.ts",
+      "../node_modules/@types/babel__core/index.d.ts",
+      "../node_modules/@types/babel__generator/index.d.ts",
+      "../node_modules/@types/babel__template/index.d.ts",
+      "../node_modules/@types/babel__traverse/index.d.ts",
+      "../node_modules/@types/bluebird/index.d.ts",
+      "../node_modules/@types/body-parser/index.d.ts",
+      "../node_modules/@types/bson/index.d.ts",
+      "../node_modules/@types/connect/index.d.ts",
+      "../node_modules/@types/content-disposition/index.d.ts",
+      "../node_modules/@types/continuation-local-storage/index.d.ts",
+      "../node_modules/@types/cookiejar/index.d.ts",
+      "../node_modules/@types/cookies/index.d.ts",
+      "../node_modules/@types/cors/index.d.ts",
+      "../node_modules/@types/crypto-js/index.d.ts",
+      "../node_modules/@types/eslint-scope/index.d.ts",
+      "../node_modules/@types/eslint/helpers.d.ts",
+      "../node_modules/@types/eslint/index.d.ts",
+      "../node_modules/@types/estree/index.d.ts",
+      "../node_modules/@types/express-serve-static-core/index.d.ts",
+      "../node_modules/@types/express/index.d.ts",
+      "../node_modules/@types/fs-capacitor/index.d.ts",
+      "../node_modules/@types/graceful-fs/index.d.ts",
+      "../node_modules/@types/graphql-upload/index.d.ts",
+      "../node_modules/@types/http-assert/index.d.ts",
+      "../node_modules/@types/http-errors/index.d.ts",
+      "../node_modules/@types/istanbul-lib-coverage/index.d.ts",
+      "../node_modules/@types/istanbul-lib-report/index.d.ts",
+      "../node_modules/@types/istanbul-reports/index.d.ts",
+      "../node_modules/@types/jest/index.d.ts",
+      "../node_modules/@types/json-schema/index.d.ts",
+      "../node_modules/@types/json5/index.d.ts",
+      "../node_modules/@types/keygrip/index.d.ts",
+      "../node_modules/@types/koa-compose/index.d.ts",
+      "../node_modules/@types/koa/index.d.ts",
+      "../node_modules/@types/lodash/common/array.d.ts",
+      "../node_modules/@types/lodash/common/collection.d.ts",
+      "../node_modules/@types/lodash/common/common.d.ts",
+      "../node_modules/@types/lodash/common/date.d.ts",
+      "../node_modules/@types/lodash/common/function.d.ts",
+      "../node_modules/@types/lodash/common/lang.d.ts",
+      "../node_modules/@types/lodash/common/math.d.ts",
+      "../node_modules/@types/lodash/common/number.d.ts",
+      "../node_modules/@types/lodash/common/object.d.ts",
+      "../node_modules/@types/lodash/common/seq.d.ts",
+      "../node_modules/@types/lodash/common/string.d.ts",
+      "../node_modules/@types/lodash/common/util.d.ts",
+      "../node_modules/@types/lodash/index.d.ts",
+      "../node_modules/@types/long/index.d.ts",
+      "../node_modules/@types/mime/index.d.ts",
+      "../node_modules/@types/minimatch/index.d.ts",
+      "../node_modules/@types/mongodb/index.d.ts",
+      "../node_modules/@types/node-fetch/externals.d.ts",
+      "../node_modules/@types/node-fetch/index.d.ts",
+      "../node_modules/@types/node/assert.d.ts",
+      "../node_modules/@types/node/async_hooks.d.ts",
+      "../node_modules/@types/node/base.d.ts",
+      "../node_modules/@types/node/buffer.d.ts",
+      "../node_modules/@types/node/child_process.d.ts",
+      "../node_modules/@types/node/cluster.d.ts",
+      "../node_modules/@types/node/console.d.ts",
+      "../node_modules/@types/node/constants.d.ts",
+      "../node_modules/@types/node/crypto.d.ts",
+      "../node_modules/@types/node/dgram.d.ts",
+      "../node_modules/@types/node/dns.d.ts",
+      "../node_modules/@types/node/domain.d.ts",
+      "../node_modules/@types/node/events.d.ts",
+      "../node_modules/@types/node/fs.d.ts",
+      "../node_modules/@types/node/fs/promises.d.ts",
+      "../node_modules/@types/node/globals.d.ts",
+      "../node_modules/@types/node/globals.global.d.ts",
+      "../node_modules/@types/node/http.d.ts",
+      "../node_modules/@types/node/http2.d.ts",
+      "../node_modules/@types/node/https.d.ts",
+      "../node_modules/@types/node/index.d.ts",
+      "../node_modules/@types/node/inspector.d.ts",
+      "../node_modules/@types/node/module.d.ts",
+      "../node_modules/@types/node/net.d.ts",
+      "../node_modules/@types/node/os.d.ts",
+      "../node_modules/@types/node/path.d.ts",
+      "../node_modules/@types/node/perf_hooks.d.ts",
+      "../node_modules/@types/node/process.d.ts",
+      "../node_modules/@types/node/punycode.d.ts",
+      "../node_modules/@types/node/querystring.d.ts",
+      "../node_modules/@types/node/readline.d.ts",
+      "../node_modules/@types/node/repl.d.ts",
+      "../node_modules/@types/node/stream.d.ts",
+      "../node_modules/@types/node/string_decoder.d.ts",
+      "../node_modules/@types/node/timers.d.ts",
+      "../node_modules/@types/node/tls.d.ts",
+      "../node_modules/@types/node/trace_events.d.ts",
+      "../node_modules/@types/node/ts3.4/base.d.ts",
+      "../node_modules/@types/node/ts3.6/base.d.ts",
+      "../node_modules/@types/node/tty.d.ts",
+      "../node_modules/@types/node/url.d.ts",
+      "../node_modules/@types/node/util.d.ts",
+      "../node_modules/@types/node/v8.d.ts",
+      "../node_modules/@types/node/vm.d.ts",
+      "../node_modules/@types/node/wasi.d.ts",
+      "../node_modules/@types/node/worker_threads.d.ts",
+      "../node_modules/@types/node/zlib.d.ts",
+      "../node_modules/@types/normalize-package-data/index.d.ts",
+      "../node_modules/@types/parse-json/index.d.ts",
+      "../node_modules/@types/prettier/index.d.ts",
+      "../node_modules/@types/qs/index.d.ts",
+      "../node_modules/@types/range-parser/index.d.ts",
+      "../node_modules/@types/sequelize/index.d.ts",
+      "../node_modules/@types/serve-static/index.d.ts",
+      "../node_modules/@types/source-list-map/index.d.ts",
+      "../node_modules/@types/stack-utils/index.d.ts",
+      "../node_modules/@types/superagent/index.d.ts",
+      "../node_modules/@types/supertest/index.d.ts",
+      "../node_modules/@types/tapable/index.d.ts",
+      "../node_modules/@types/uglify-js/index.d.ts",
+      "../node_modules/@types/umzug/index.d.ts",
+      "../node_modules/@types/validator/index.d.ts",
+      "../node_modules/@types/webpack-sources/index.d.ts",
+      "../node_modules/@types/webpack-sources/lib/cachedsource.d.ts",
+      "../node_modules/@types/webpack-sources/lib/compatsource.d.ts",
+      "../node_modules/@types/webpack-sources/lib/concatsource.d.ts",
+      "../node_modules/@types/webpack-sources/lib/index.d.ts",
+      "../node_modules/@types/webpack-sources/lib/originalsource.d.ts",
+      "../node_modules/@types/webpack-sources/lib/prefixsource.d.ts",
+      "../node_modules/@types/webpack-sources/lib/rawsource.d.ts",
+      "../node_modules/@types/webpack-sources/lib/replacesource.d.ts",
+      "../node_modules/@types/webpack-sources/lib/sizeonlysource.d.ts",
+      "../node_modules/@types/webpack-sources/lib/source.d.ts",
+      "../node_modules/@types/webpack-sources/lib/sourcemapsource.d.ts",
+      "../node_modules/@types/webpack-sources/node_modules/source-map/source-map.d.ts",
+      "../node_modules/@types/webpack/index.d.ts",
+      "../node_modules/@types/ws/index.d.ts",
+      "../node_modules/@types/yargs-parser/index.d.ts",
+      "../node_modules/@types/yargs/index.d.ts",
+      "../node_modules/anymatch/index.d.ts",
+      "../node_modules/axios/index.d.ts",
+      "../node_modules/fast-glob/out/index.d.ts",
+      "../node_modules/fast-glob/out/managers/tasks.d.ts",
+      "../node_modules/fast-glob/out/settings.d.ts",
+      "../node_modules/fast-glob/out/types/index.d.ts",
+      "../node_modules/form-data/index.d.ts",
+      "../node_modules/globby/index.d.ts",
+      "../node_modules/graphql/error/formaterror.d.ts",
+      "../node_modules/graphql/error/graphqlerror.d.ts",
+      "../node_modules/graphql/error/index.d.ts",
+      "../node_modules/graphql/error/locatederror.d.ts",
+      "../node_modules/graphql/error/syntaxerror.d.ts",
+      "../node_modules/graphql/execution/execute.d.ts",
+      "../node_modules/graphql/execution/index.d.ts",
+      "../node_modules/graphql/execution/values.d.ts",
+      "../node_modules/graphql/graphql.d.ts",
+      "../node_modules/graphql/index.d.ts",
+      "../node_modules/graphql/jsutils/maybe.d.ts",
+      "../node_modules/graphql/jsutils/path.d.ts",
+      "../node_modules/graphql/jsutils/promiseorvalue.d.ts",
+      "../node_modules/graphql/language/ast.d.ts",
+      "../node_modules/graphql/language/directivelocation.d.ts",
+      "../node_modules/graphql/language/index.d.ts",
+      "../node_modules/graphql/language/kinds.d.ts",
+      "../node_modules/graphql/language/lexer.d.ts",
+      "../node_modules/graphql/language/location.d.ts",
+      "../node_modules/graphql/language/parser.d.ts",
+      "../node_modules/graphql/language/predicates.d.ts",
+      "../node_modules/graphql/language/printer.d.ts",
+      "../node_modules/graphql/language/printlocation.d.ts",
+      "../node_modules/graphql/language/source.d.ts",
+      "../node_modules/graphql/language/tokenkind.d.ts",
+      "../node_modules/graphql/language/visitor.d.ts",
+      "../node_modules/graphql/subscription/index.d.ts",
+      "../node_modules/graphql/subscription/subscribe.d.ts",
+      "../node_modules/graphql/type/definition.d.ts",
+      "../node_modules/graphql/type/directives.d.ts",
+      "../node_modules/graphql/type/index.d.ts",
+      "../node_modules/graphql/type/introspection.d.ts",
+      "../node_modules/graphql/type/scalars.d.ts",
+      "../node_modules/graphql/type/schema.d.ts",
+      "../node_modules/graphql/type/validate.d.ts",
+      "../node_modules/graphql/utilities/assertvalidname.d.ts",
+      "../node_modules/graphql/utilities/astfromvalue.d.ts",
+      "../node_modules/graphql/utilities/buildastschema.d.ts",
+      "../node_modules/graphql/utilities/buildclientschema.d.ts",
+      "../node_modules/graphql/utilities/coerceinputvalue.d.ts",
+      "../node_modules/graphql/utilities/concatast.d.ts",
+      "../node_modules/graphql/utilities/extendschema.d.ts",
+      "../node_modules/graphql/utilities/findbreakingchanges.d.ts",
+      "../node_modules/graphql/utilities/finddeprecatedusages.d.ts",
+      "../node_modules/graphql/utilities/getintrospectionquery.d.ts",
+      "../node_modules/graphql/utilities/getoperationast.d.ts",
+      "../node_modules/graphql/utilities/getoperationroottype.d.ts",
+      "../node_modules/graphql/utilities/index.d.ts",
+      "../node_modules/graphql/utilities/introspectionfromschema.d.ts",
+      "../node_modules/graphql/utilities/lexicographicsortschema.d.ts",
+      "../node_modules/graphql/utilities/printschema.d.ts",
+      "../node_modules/graphql/utilities/separateoperations.d.ts",
+      "../node_modules/graphql/utilities/stripignoredcharacters.d.ts",
+      "../node_modules/graphql/utilities/typecomparators.d.ts",
+      "../node_modules/graphql/utilities/typedquerydocumentnode.d.ts",
+      "../node_modules/graphql/utilities/typefromast.d.ts",
+      "../node_modules/graphql/utilities/typeinfo.d.ts",
+      "../node_modules/graphql/utilities/valuefromast.d.ts",
+      "../node_modules/graphql/utilities/valuefromastuntyped.d.ts",
+      "../node_modules/graphql/validation/index.d.ts",
+      "../node_modules/graphql/validation/rules/custom/nodeprecatedcustomrule.d.ts",
+      "../node_modules/graphql/validation/rules/custom/noschemaintrospectioncustomrule.d.ts",
+      "../node_modules/graphql/validation/rules/executabledefinitionsrule.d.ts",
+      "../node_modules/graphql/validation/rules/fieldsoncorrecttyperule.d.ts",
+      "../node_modules/graphql/validation/rules/fragmentsoncompositetypesrule.d.ts",
+      "../node_modules/graphql/validation/rules/knownargumentnamesrule.d.ts",
+      "../node_modules/graphql/validation/rules/knowndirectivesrule.d.ts",
+      "../node_modules/graphql/validation/rules/knownfragmentnamesrule.d.ts",
+      "../node_modules/graphql/validation/rules/knowntypenamesrule.d.ts",
+      "../node_modules/graphql/validation/rules/loneanonymousoperationrule.d.ts",
+      "../node_modules/graphql/validation/rules/loneschemadefinitionrule.d.ts",
+      "../node_modules/graphql/validation/rules/nofragmentcyclesrule.d.ts",
+      "../node_modules/graphql/validation/rules/noundefinedvariablesrule.d.ts",
+      "../node_modules/graphql/validation/rules/nounusedfragmentsrule.d.ts",
+      "../node_modules/graphql/validation/rules/nounusedvariablesrule.d.ts",
+      "../node_modules/graphql/validation/rules/overlappingfieldscanbemergedrule.d.ts",
+      "../node_modules/graphql/validation/rules/possiblefragmentspreadsrule.d.ts",
+      "../node_modules/graphql/validation/rules/possibletypeextensionsrule.d.ts",
+      "../node_modules/graphql/validation/rules/providedrequiredargumentsrule.d.ts",
+      "../node_modules/graphql/validation/rules/scalarleafsrule.d.ts",
+      "../node_modules/graphql/validation/rules/singlefieldsubscriptionsrule.d.ts",
+      "../node_modules/graphql/validation/rules/uniqueargumentnamesrule.d.ts",
+      "../node_modules/graphql/validation/rules/uniquedirectivenamesrule.d.ts",
+      "../node_modules/graphql/validation/rules/uniquedirectivesperlocationrule.d.ts",
+      "../node_modules/graphql/validation/rules/uniqueenumvaluenamesrule.d.ts",
+      "../node_modules/graphql/validation/rules/uniquefielddefinitionnamesrule.d.ts",
+      "../node_modules/graphql/validation/rules/uniquefragmentnamesrule.d.ts",
+      "../node_modules/graphql/validation/rules/uniqueinputfieldnamesrule.d.ts",
+      "../node_modules/graphql/validation/rules/uniqueoperationnamesrule.d.ts",
+      "../node_modules/graphql/validation/rules/uniqueoperationtypesrule.d.ts",
+      "../node_modules/graphql/validation/rules/uniquetypenamesrule.d.ts",
+      "../node_modules/graphql/validation/rules/uniquevariablenamesrule.d.ts",
+      "../node_modules/graphql/validation/rules/valuesofcorrecttyperule.d.ts",
+      "../node_modules/graphql/validation/rules/variablesareinputtypesrule.d.ts",
+      "../node_modules/graphql/validation/rules/variablesinallowedpositionrule.d.ts",
+      "../node_modules/graphql/validation/specifiedrules.d.ts",
+      "../node_modules/graphql/validation/validate.d.ts",
+      "../node_modules/graphql/validation/validationcontext.d.ts",
+      "../node_modules/graphql/version.d.ts",
+      "../node_modules/jest-diff/build/cleanupsemantic.d.ts",
+      "../node_modules/jest-diff/build/difflines.d.ts",
+      "../node_modules/jest-diff/build/index.d.ts",
+      "../node_modules/jest-diff/build/printdiffs.d.ts",
+      "../node_modules/jest-diff/build/types.d.ts",
+      "../node_modules/knex/types/index.d.ts",
+      "../node_modules/knex/types/result.d.ts",
+      "../node_modules/knex/types/tables.d.ts",
+      "../node_modules/pretty-format/build/index.d.ts",
+      "../node_modules/pretty-format/build/types.d.ts",
+      "../node_modules/reflect-metadata/index.d.ts",
+      "../node_modules/rxjs/index.d.ts",
+      "../node_modules/rxjs/internal/asyncsubject.d.ts",
+      "../node_modules/rxjs/internal/behaviorsubject.d.ts",
+      "../node_modules/rxjs/internal/config.d.ts",
+      "../node_modules/rxjs/internal/innersubscriber.d.ts",
+      "../node_modules/rxjs/internal/notification.d.ts",
+      "../node_modules/rxjs/internal/observable.d.ts",
+      "../node_modules/rxjs/internal/observable/bindcallback.d.ts",
+      "../node_modules/rxjs/internal/observable/bindnodecallback.d.ts",
+      "../node_modules/rxjs/internal/observable/combinelatest.d.ts",
+      "../node_modules/rxjs/internal/observable/concat.d.ts",
+      "../node_modules/rxjs/internal/observable/connectableobservable.d.ts",
+      "../node_modules/rxjs/internal/observable/defer.d.ts",
+      "../node_modules/rxjs/internal/observable/empty.d.ts",
+      "../node_modules/rxjs/internal/observable/forkjoin.d.ts",
+      "../node_modules/rxjs/internal/observable/from.d.ts",
+      "../node_modules/rxjs/internal/observable/fromevent.d.ts",
+      "../node_modules/rxjs/internal/observable/fromeventpattern.d.ts",
+      "../node_modules/rxjs/internal/observable/generate.d.ts",
+      "../node_modules/rxjs/internal/observable/iif.d.ts",
+      "../node_modules/rxjs/internal/observable/interval.d.ts",
+      "../node_modules/rxjs/internal/observable/merge.d.ts",
+      "../node_modules/rxjs/internal/observable/never.d.ts",
+      "../node_modules/rxjs/internal/observable/of.d.ts",
+      "../node_modules/rxjs/internal/observable/onerrorresumenext.d.ts",
+      "../node_modules/rxjs/internal/observable/pairs.d.ts",
+      "../node_modules/rxjs/internal/observable/partition.d.ts",
+      "../node_modules/rxjs/internal/observable/race.d.ts",
+      "../node_modules/rxjs/internal/observable/range.d.ts",
+      "../node_modules/rxjs/internal/observable/throwerror.d.ts",
+      "../node_modules/rxjs/internal/observable/timer.d.ts",
+      "../node_modules/rxjs/internal/observable/using.d.ts",
+      "../node_modules/rxjs/internal/observable/zip.d.ts",
+      "../node_modules/rxjs/internal/operator.d.ts",
+      "../node_modules/rxjs/internal/operators/groupby.d.ts",
+      "../node_modules/rxjs/internal/outersubscriber.d.ts",
+      "../node_modules/rxjs/internal/replaysubject.d.ts",
+      "../node_modules/rxjs/internal/scheduled/scheduled.d.ts",
+      "../node_modules/rxjs/internal/scheduler.d.ts",
+      "../node_modules/rxjs/internal/scheduler/action.d.ts",
+      "../node_modules/rxjs/internal/scheduler/animationframe.d.ts",
+      "../node_modules/rxjs/internal/scheduler/animationframescheduler.d.ts",
+      "../node_modules/rxjs/internal/scheduler/asap.d.ts",
+      "../node_modules/rxjs/internal/scheduler/asapscheduler.d.ts",
+      "../node_modules/rxjs/internal/scheduler/async.d.ts",
+      "../node_modules/rxjs/internal/scheduler/asyncaction.d.ts",
+      "../node_modules/rxjs/internal/scheduler/asyncscheduler.d.ts",
+      "../node_modules/rxjs/internal/scheduler/queue.d.ts",
+      "../node_modules/rxjs/internal/scheduler/queuescheduler.d.ts",
+      "../node_modules/rxjs/internal/scheduler/virtualtimescheduler.d.ts",
+      "../node_modules/rxjs/internal/subject.d.ts",
+      "../node_modules/rxjs/internal/subscriber.d.ts",
+      "../node_modules/rxjs/internal/subscription.d.ts",
+      "../node_modules/rxjs/internal/symbol/observable.d.ts",
+      "../node_modules/rxjs/internal/types.d.ts",
+      "../node_modules/rxjs/internal/util/argumentoutofrangeerror.d.ts",
+      "../node_modules/rxjs/internal/util/emptyerror.d.ts",
+      "../node_modules/rxjs/internal/util/identity.d.ts",
+      "../node_modules/rxjs/internal/util/isobservable.d.ts",
+      "../node_modules/rxjs/internal/util/noop.d.ts",
+      "../node_modules/rxjs/internal/util/objectunsubscribederror.d.ts",
+      "../node_modules/rxjs/internal/util/pipe.d.ts",
+      "../node_modules/rxjs/internal/util/timeouterror.d.ts",
+      "../node_modules/rxjs/internal/util/unsubscriptionerror.d.ts",
+      "../node_modules/source-map/source-map.d.ts",
+      "../node_modules/tarn/dist/pendingoperation.d.ts",
+      "../node_modules/tarn/dist/pool.d.ts",
+      "../node_modules/tarn/dist/promiseinspection.d.ts",
+      "../node_modules/tarn/dist/resource.d.ts",
+      "../node_modules/tarn/dist/tarn.d.ts",
+      "../node_modules/tarn/dist/timeouterror.d.ts",
+      "../node_modules/tarn/dist/utils.d.ts",
+      "../node_modules/typescript/lib/lib.dom.d.ts",
+      "../node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "../node_modules/typescript/lib/lib.es2016.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.full.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "../node_modules/typescript/lib/lib.es2020.bigint.d.ts",
+      "../node_modules/typescript/lib/lib.es5.d.ts",
+      "../node_modules/typescript/lib/lib.esnext.intl.d.ts",
+      "../node_modules/typescript/lib/lib.scripthost.d.ts",
+      "../node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "../src/app.controller.ts",
+      "../src/app.module.ts",
+      "../src/app.service.ts",
+      "../src/author/entities/author.entities.ts",
+      "../src/main.ts",
+      "../src/post/entities/post.entities.ts"
+    ]
   },
   "version": "4.1.3"
 }

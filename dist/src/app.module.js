@@ -11,12 +11,14 @@ const common_1 = require("@nestjs/common");
 const app_controller_1 = require("./app.controller");
 const nestjs_1 = require("@mikro-orm/nestjs");
 const mikro_orm_config_1 = require("../mikro-orm.config");
+const app_service_1 = require("./app.service");
 let AppModule = class AppModule {
 };
 AppModule = __decorate([
     common_1.Module({
         imports: [nestjs_1.MikroOrmModule.forRoot(mikro_orm_config_1.options)],
         controllers: [app_controller_1.AppController],
+        providers: [app_service_1.AppService],
     })
 ], AppModule);
 exports.AppModule = AppModule;
