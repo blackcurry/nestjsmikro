@@ -8,10 +8,9 @@ import {
 } from "@mikro-orm/core";
 import { Post } from "../../post/entities/post.entities";
 
-// @Entity({ tableName: 'my.author' })
 @Entity()
 export class Author {
-  @PrimaryKey({ type: BigIntType, comment: "PK" })
+  @PrimaryKey({ type: BigIntType, comment: "PK",  })
   id!: string;
 
   @Property({ nullable: true })
